@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.0",
+    "tslib": "^2.6.2"
+  },
+  "name": "qzx-host-tool",
+  "version": "1.0.0",
+  "description": "the nodejs tool to change host",
+  "main": "dist/host.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zxqian1991/qzx-host-tool.git"
+  },
+  "author": "qianzhixiang",
+  "license": "ISC",
+  "types": "./dist/host.d.ts",
+  "bugs": {
+    "url": "https://github.com/zxqian1991/qzx-host-tool/issues"
+  },
+  "homepage": "https://github.com/zxqian1991/qzx-host-tool#readme"
+}
